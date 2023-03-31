@@ -1,5 +1,5 @@
 # Sergio_Portfolio
-Portfolio
+
 
 # [Project 1: Calculation of the percolation threshold](https://github.com/ssoler90/percolation)
 - Estimated calculation of the percolation threshold in a square net
