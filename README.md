@@ -6,4 +6,4 @@ Portfolio
 - Data created from different simulations with different values of probability of percolation
 - Estimation made by a Logistic Regression model
 
-![](https://github.com/ssoler90/Sergio_Portfolio/blob/main/images/percolation_cluster.jpeg) ![](https://github.com/ssoler90/Sergio_Portfolio/blob/main/images/Percolation_in_a_300_square_lattice.jpg)
+![](/images/percolation_cluster.jpeg) ![](/images/Percolation_in_a_300_square_lattice.jpg)
